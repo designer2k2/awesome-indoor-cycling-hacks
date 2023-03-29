@@ -11,7 +11,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 
 ## Rocker plate
 
-Some Rocker plate builds, different methods
+- [Bikechimps DIY](https://www.bikechimps.de/bikechimps-rocker-plate-diy-bauhaus-teilen-und-tennisbaellen/) - Hardware Store Rocker Plate (German, but many pictures).
 
 ## Keypads
 
@@ -20,6 +20,7 @@ Some Rocker plate builds, different methods
 ## Steering
 
 - [Zwift-Steer](https://github.com/matandoocorpo/Zwift-Steer) - Sterzo simulator with an ESP32 and joystick.
+- [ZwiftSteer 3D](https://github.com/runningtoy/ESP32ZwiftSteer) - Steering with a 3d printet platform and ESP32.
 
 ## Climbing
 
