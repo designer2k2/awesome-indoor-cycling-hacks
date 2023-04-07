@@ -5,17 +5,14 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 ## Contents
 
 - [Rocker plate](#rocker-plate)
-- [Keypads](#keypads)
 - [Steering](#steering)
 - [Climbing](#climbing)
+- [Trainers](#trainers)
+- [Training tools](#training-tools)
 
 ## Rocker plate
 
 - [Bikechimps DIY](https://www.bikechimps.de/bikechimps-rocker-plate-diy-bauhaus-teilen-und-tennisbaellen/) - Hardware Store Rocker Plate (German, but many pictures).
-
-## Keypads
-
-
 
 ## Steering
 
@@ -34,6 +31,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 
 - [Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training.
 - [Zwift on Linux](https://github.com/netbrain/zwift) - Docker image for Zwift on Linux.
+- [ZwiftPref](https://zwifthacks.com/zwiftpref/) - An app which helps you change settings for Zwift in the prefs.xml file in an easy and safe way.
 
 ## Contributing
 
