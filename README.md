@@ -26,6 +26,8 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 ## Trainers
 
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a Smart Trainer.
+- [gdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Bridge for smart treadmills and bike/cyclette
+- [domyos-el500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/) - Domyos EL500 reverse engineering
 
 ## Training tools
 
