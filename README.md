@@ -12,7 +12,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 
 ## Rocker plate
 
-- [Bikechimps DIY](https://www.bikechimps.de/bikechimps-rocker-plate-diy-bauhaus-teilen-und-tennisbaellen/) - Hardware Store Rocker Plate (German, but many pictures).
+- [WCC Rocker plate DIY](https://forum.waterloocyclingclub.ca/t/building-rocker-plate-for-indoor-training-zwift-any-local-experts/5994) - Hardware Store Rocker Plate.
 
 ## Steering
 
