@@ -34,6 +34,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 - [Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training.
 - [Sauce for Zwift](https://github.com/SauceLLC/sauce4zwift) - Overlay for Zwift with more metrics.
 - [TrainingPeaks MCP](https://github.com/JamsusMaximus/trainingpeaks-mcp) - Connect TrainingPeaks to AI assistants. Query CTL/ATL/TSB history, compare power data across seasons.
+- [VeloVostra](https://velovostra.com/) - Strava-adaptive training planner that reshapes your week from your actual rides. Exports structured workouts to Zwift (.zwo) and FIT.
 - [Zwift on Linux](https://github.com/netbrain/zwift) - Docker image for Zwift on Linux.
 - [ZwiftPref](https://zwifthacks.com/zwiftpref/) - An app which helps you change settings for Zwift in the prefs.xml file in an easy and safe way.
 
