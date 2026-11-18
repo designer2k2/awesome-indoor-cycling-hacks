@@ -36,6 +36,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 - [Tour du Pain](https://tourdupain.app/) - Browser-based indoor cycling game for smart trainers with voice chat while you ride, runs in Chrome or Edge.
 - [TrainingPeaks MCP](https://github.com/JamsusMaximus/trainingpeaks-mcp) - Connect TrainingPeaks to AI assistants. Query CTL/ATL/TSB history, compare power data across seasons.
 - [VeloVostra](https://velovostra.com/) - Strava-adaptive training planner that reshapes your week from your actual rides. Exports structured workouts to Zwift (.zwo) and FIT.
+- [VeloWorkout](https://veloworkout.com/) - Structured indoor cycling training plans, ERG workouts and power analytics for smart trainers.
 - [Zwift on Linux](https://github.com/netbrain/zwift) - Docker image for Zwift on Linux.
 - [ZwiftPref](https://zwifthacks.com/zwiftpref/) - An app which helps you change settings for Zwift in the prefs.xml file in an easy and safe way.
 
