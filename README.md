@@ -32,6 +32,7 @@ Hacks and Mods around your Indoor Cycling Training, let´s make it even more fun
 ## Training tools
 
 - [Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training.
+- [PedalCraft](https://pedalcraft.online/) - Virtual shifting on smart trainers with a Zwift Click, Play or Ride, right in Chrome or Edge. Free rides up to 30 minutes, paid Pro version.
 - [Sauce for Zwift](https://github.com/SauceLLC/sauce4zwift) - Overlay for Zwift with more metrics.
 - [Tour du Pain](https://tourdupain.app/) - Browser-based indoor cycling game for smart trainers with voice chat while you ride, runs in Chrome or Edge.
 - [TrainingPeaks MCP](https://github.com/JamsusMaximus/trainingpeaks-mcp) - Connect TrainingPeaks to AI assistants. Query CTL/ATL/TSB history, compare power data across seasons.
